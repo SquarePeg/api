@@ -1,0 +1,23 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "fake api",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/squarepegjobs/api.git"
+  },
+  "author": "CDH",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/squarepegjobs/api/issues"
+  },
+  "homepage": "https://github.com/squarepegjobs/api#readme",
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
