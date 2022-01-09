@@ -1,0 +1,264 @@
+{
+  "list": [
+    {
+      "label": "Public Speaking",
+      "category": "Executive"
+    },
+    {
+      "label": "Leadership",
+      "category": "Executive"
+    },
+    {
+      "label": "Leadership Board Experience",
+      "category": "Executive"
+    },
+    {
+      "label": "Executive Presence",
+      "category": "Management"
+    },
+    {
+      "label": "Team Building",
+      "category": "Management"
+    },
+    {
+      "label": "Vendor Management",
+      "category": "Management"
+    },
+    {
+      "label": "PMP Certified",
+      "category": "Project Management"
+    },
+    {
+      "label": "Scrum Master",
+      "category": "Project Management"
+    },
+    {
+      "label": "Agile Training",
+      "category": "Project Management"
+    },
+    {
+      "label": "Kanban",
+      "category": "Project Management"
+    },
+    {
+      "label": "Presentation Skills",
+      "category": "Management"
+    },
+    {
+      "label": "Saleforce Usage",
+      "category": "Business Development"
+    },
+    {
+      "label": "Cold Call Sales",
+      "category": "Business Development"
+    },
+    {
+      "label": "Strategic Planning",
+      "category": "Strategy"
+    },
+    {
+      "label": "Data Analysis",
+      "category": "Strategy"
+    },
+    {
+      "label": "Cost Analysis",
+      "category": "Strategy"
+    },
+    {
+      "label": "Marketing Strategy",
+      "category": "Marketing"
+    },
+    {
+      "label": "Digital Marketing",
+      "category": "Marketing"
+    },
+    {
+      "label": "Hubspot",
+      "category": "Marketing"
+    },
+    {
+      "label": "Analytics",
+      "category": "Marketing"
+    },
+    {
+      "label": "Search Engine Marketing",
+      "category": "Marketing"
+    },
+    {
+      "label": "Product Design",
+      "category": "Design"
+    },
+    {
+      "label": "Interaction Design",
+      "category": "Design"
+    },
+    {
+      "label": "Typography",
+      "category": "Design"
+    },
+    {
+      "label": "Photoshop",
+      "category": "Design"
+    },
+    {
+      "label": "Illustrator",
+      "category": "Design"
+    },
+    {
+      "label": "Figma",
+      "category": "Design"
+    },
+    {
+      "label": "Sketch",
+      "category": "Design"
+    },
+    {
+      "label": "Adobe XD",
+      "category": "Design"
+    },
+    {
+      "label": "UX Strategy",
+      "category": "Design"
+    },
+    {
+      "label": "UI Design",
+      "category": "Design"
+    },
+    {
+      "label": "Usability Testing",
+      "category": "Design"
+    },
+    {
+      "label": "UX Research",
+      "category": "Design"
+    },
+    {
+      "label": "HTML",
+      "category": "Development"
+    },
+    {
+      "label": "CSS, SASS, LESS",
+      "category": "Development"
+    },
+    {
+      "label": "Frontend Development",
+      "category": "Development"
+    },
+    {
+      "label": "Angular",
+      "category": "Development"
+    },
+    {
+      "label": "React",
+      "category": "Development"
+    },
+    {
+      "label": "Vue",
+      "category": "Development"
+    },
+    {
+      "label": "JavaScript",
+      "category": "Development"
+    },
+    {
+      "label": "Java",
+      "category": "Development"
+    },
+    {
+      "label": "Java Struts",
+      "category": "Development"
+    },
+    {
+      "label": ".Net - C#",
+      "category": "Development"
+    },
+    {
+      "label": ".Net - C++",
+      "category": "Development"
+    },
+    {
+      "label": "Python",
+      "category": "Development"
+    },
+    {
+      "label": "Database Management",
+      "category": "Development"
+    },
+    {
+      "label": "Enterprise Architecture",
+      "category": "Development"
+    },
+    {
+      "label": "Solidity",
+      "category": "Development"
+    },
+    {
+      "label": "Blockchain Development",
+      "category": "Development"
+    },
+    {
+      "label": "Node and NPM",
+      "category": "Development"
+    },
+    {
+      "label": "Docker (containerization)",
+      "category": "Development"
+    },
+    {
+      "label": "AWS Administration",
+      "category": "Development"
+    },
+    {
+      "label": "Email Management",
+      "category": "Administrative"
+    },
+    {
+      "label": "College Degree",
+      "category": "Entry-level"
+    },
+    {
+      "label": "Associates Degree",
+      "category": "Entry-level"
+    },
+    {
+      "label": "High School Degree",
+      "category": "Entry-level"
+    },
+    {
+      "label": "GED",
+      "category": "Entry-level"
+    }
+  ],
+  "categories": [
+    {
+      "label": "Executive"
+    },
+    {
+      "label": "Management"
+    },
+    {
+      "label": "Business Development"
+    },
+    {
+      "label": "Strategy"
+    },
+    {
+      "label": "Marketing"
+    },
+    {
+      "label": "Design"
+    },
+    {
+      "label": "Project Management"
+    },
+    {
+      "label": "Development"
+    },
+    {
+      "label": "Administrative"
+    },
+    {
+      "label": "Entry-level"
+    }
+  ]
+}

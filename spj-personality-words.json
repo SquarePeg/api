@@ -1,0 +1,399 @@
+{
+  "list": [
+    {
+      "label": "Dependable",
+      "category": "temp",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Active",
+      "category": "temp",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Admireable",
+      "category": "temp",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Adverturous",
+      "category": "temp",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Committed",
+      "category": "temp",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Agreeable",
+      "category": "temp",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Ambitious",
+      "category": "temp",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Appreciative",
+      "category": "temp",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Professional",
+      "category": "temp",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Attentive",
+      "category": "temp",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Brave",
+      "category": "temp",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Driven",
+      "category": "temp",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Calm",
+      "category": "temp",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Proactive",
+      "category": "temp",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Careful",
+      "category": "temp",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Charismatic",
+      "category": "temp",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Charming",
+      "category": "temp",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Cheerful",
+      "category": "temp",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Clever",
+      "category": "temp",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Compassionate",
+      "category": "temp",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Confident",
+      "category": "temp",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Detail-oriented",
+      "category": "temp",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Considerate",
+      "category": "temp",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Cooperative",
+      "category": "temp",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Creative",
+      "category": "temp",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Dedicated",
+      "category": "temp",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Disciplined",
+      "category": "temp",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Easygoing",
+      "category": "temp",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Efficient",
+      "category": "temp",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Energetic",
+      "category": "temp",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Enthusiastic",
+      "category": "temp",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Fair",
+      "category": "temp",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Faithful",
+      "category": "temp",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Fearless",
+      "category": "temp",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Flexible",
+      "category": "temp",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Focused",
+      "category": "temp",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Forgiving",
+      "category": "temp",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Friendly",
+      "category": "temp",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Funny",
+      "category": "temp",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Generous",
+      "category": "temp",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Hardworking",
+      "category": "temp",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Helpful",
+      "category": "temp",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Honest",
+      "category": "temp",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Honorable",
+      "category": "temp",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Hopeful",
+      "category": "temp",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Humorous",
+      "category": "temp",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Imaginative",
+      "category": "temp",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Independent",
+      "category": "temp",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Kind",
+      "category": "temp",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Knowledgable",
+      "category": "temp",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Logical",
+      "category": "temp",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Mature",
+      "category": "temp",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Observant",
+      "category": "temp",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Opportunistic",
+      "category": "temp",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Organized",
+      "category": "temp",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Passionate",
+      "category": "temp",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Persuasive",
+      "category": "temp",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Polite",
+      "category": "temp",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Popular",
+      "category": "temp",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Reliable",
+      "category": "temp",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Respectful",
+      "category": "temp",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Responsible",
+      "category": "temp",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Self-Reliant",
+      "category": "temp",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Sincere",
+      "category": "temp",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Skillful",
+      "category": "temp",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Smart",
+      "category": "temp",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Sociable",
+      "category": "temp",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Studious",
+      "category": "temp",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Tactful",
+      "category": "temp",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Tenacious",
+      "category": "temp",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Thoughtful",
+      "category": "temp",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Tolerant",
+      "category": "temp",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Trustworthy",
+      "category": "temp",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Understanding",
+      "category": "temp",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Userful",
+      "category": "temp",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Valiant",
+      "category": "temp",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Wise",
+      "category": "temp",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Witty",
+      "category": "temp",
+      "sentiment": "positive"
+    }
+  ],
+  "categories": [
+    {
+    "label": "temp"
+    }
+  ]
+}

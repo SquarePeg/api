@@ -1,0 +1,360 @@
+{
+  "list": [
+    {
+      "label": "Welcoming",
+      "category": "Onboarding",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Trusting",
+      "category": "Overseeing",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Respectful",
+      "category": "Relationships",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Nimble",
+      "category": "Delivery",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Rewarding",
+      "category": "Community",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Engaging",
+      "category": "Relationships",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Empathetic",
+      "category": "Communication",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Challenging",
+      "category": "Advancement",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Relaxed",
+      "category": "Community",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Collaborative",
+      "category": "Networking",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Curious",
+      "category": "Delivery",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Fun",
+      "category": "Community",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Inclusive",
+      "category": "Communication",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Innovative",
+      "category": "Delivery",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Casual",
+      "category": "Overseeing",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Flexible",
+      "category": "Overseeing",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Progressive",
+      "category": "Delivery",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Happy",
+      "category": "Community",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Motivating",
+      "category": "Overseeing",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Autonomous",
+      "category": "Overseeing",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Nurturing",
+      "category": "Overseeing",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Connected",
+      "category": "Networking",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Transparent",
+      "category": "Communication",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Disengaged",
+      "category": "Relationships",
+      "sentiment": "negative"
+    },
+    {
+      "label": "Micromanaged",
+      "category": "Overseeing",
+      "sentiment": "negative"
+    },
+    {
+      "label": "Stressful",
+      "category": "Delivery",
+      "sentiment": "negative"
+    },
+    {
+      "label": "Hostile",
+      "category": "Relationships",
+      "sentiment": "negative"
+    },
+    {
+      "label": "Unsupportive",
+      "category": "Advancement",
+      "sentiment": "negative"
+    },
+    {
+      "label": "Biased",
+      "category": "Communication",
+      "sentiment": "negative"
+    },
+    {
+      "label": "Outdated",
+      "category": "Delivery",
+      "sentiment": "negative"
+    },
+    {
+      "label": "Siloed",
+      "category": "Networking",
+      "sentiment": "negative"
+    },
+    {
+      "label": "Boring",
+      "category": "Community",
+      "sentiment": "negative"
+    },
+    {
+      "label": "Toxic",
+      "category": "Relationships",
+      "sentiment": "negative"
+    },
+    {
+      "label": "Accepting",
+      "category": "Onboarding",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Customer-centric",
+      "category": "Delivery",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Conscientious",
+      "category": "Overseeing",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Creative",
+      "category": "Delivery",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Competitive",
+      "category": "Advancement",
+      "sentiment": "negative"
+    },
+    {
+      "label": "Ethical",
+      "category": "Overseeing",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Family",
+      "category": "Community",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Friendly",
+      "category": "Relationships",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Healthy",
+      "category": "Community",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Formal",
+      "category": "Communication",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Traditional",
+      "category": "Relationships",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Traditional",
+      "category": "Relationships",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Work-life Balance",
+      "category": "Overseeing",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Tireless",
+      "category": "Advancement",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Talented",
+      "category": "Advancement",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Stylish",
+      "category": "Delivery",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Safe",
+      "category": "Community",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Strict",
+      "category": "Overseeing",
+      "sentiment": "negative"
+    },
+    {
+      "label": "Performance-based",
+      "category": "Advancement",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Learning",
+      "category": "Advancement",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Growth Mindset",
+      "category": "Advancement",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Curteous",
+      "category": "Onboarding",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Opportunistic",
+      "category": "Advancement",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Open",
+      "category": "Onboarding",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Independent",
+      "category": "Overseeing",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Happy Hours",
+      "category": "Networking",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Lunch and Learns",
+      "category": "Networking",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Company Outings",
+      "category": "Networking",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Warm",
+      "category": "Onboarding",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Cutting Edge",
+      "category": "Delivery",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Global",
+      "category": "Advancement",
+      "sentiment": "positive"
+    },
+    {
+      "label": "International",
+      "category": "Communication",
+      "sentiment": "positive"
+    },
+    {
+      "label": "Results-based",
+      "category": "Advancement",
+      "sentiment": "positive"
+    }
+  ],
+  "categories": [
+    {
+      "label": "Onboarding"
+    },
+    {
+      "label": "Overseeing"
+    },
+    {
+      "label": "Communication"
+    },
+    {
+      "label": "Delivery"
+    },
+    {
+      "label": "Relationships"
+    },
+    {
+      "label": "Advancement"
+    },
+    {
+      "label": "Community"
+    },
+    {
+      "label": "Networking"
+    }
+  ]
+}
